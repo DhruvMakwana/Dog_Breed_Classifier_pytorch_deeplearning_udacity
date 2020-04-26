@@ -66,7 +66,7 @@ Used ResNet50 for transfer learning by changing last layer of pretrained network
 
 ## Results: Accuracy has been achieved to 81% after 25 epochs
 
-	<pre>
+	
 	Epoch 1, Batch 1 loss: 4.988276
 	Epoch 1, Batch 101 loss: 3.990508
 	Epoch 1, Batch 201 loss: 3.050565
@@ -200,5 +200,4 @@ Used ResNet50 for transfer learning by changing last layer of pretrained network
 	Epoch 25, Batch 201 loss: 0.705212
 	Epoch 25, Batch 301 loss: 0.728429
 	Epoch: 25 	Training Loss: 0.726061 	Validation Loss: 0.574407
-	</pre>
 
